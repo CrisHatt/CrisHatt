@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Cris
 
-### Full-Stack Developer | Second Life Enthusiast | Music Tech Creator
+### Full-Stack Developer | Second Life Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/CrisHatt?style=social)](https://github.com/CrisHatt)
 [![Twitter](https://img.shields.io/badge/Second_Life-Profile-00CED1?style=flat&logo=secondlife)](https://my.secondlife.com/cris.hatt)
@@ -43,18 +43,6 @@ Beautiful, responsive music player with advanced playback features and playlist 
 <tr>
 <td width="50%">
 
-### 🌊 UmiStorm
-**Creative Project**
-
-Innovative platform combining music and visual experiences.
-
-**Stack:** Modern web technologies
-
-⚡ In active development
-
-</td>
-<td width="50%">
-
 ### 🤖 PersonalBots
 **Automation & Bots**
 
@@ -63,6 +51,9 @@ Personal automation tools and bot systems for various platforms.
 **Stack:** Python, Node.js
 
 🔧 Productivity tools
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -111,7 +102,6 @@ Personal automation tools and bot systems for various platforms.
 
 - 🌐 **Full-Stack Development** - Building scalable web applications
 - 🎮 **Second Life Integration** - LSL scripting and SaaS platforms
-- 🎵 **Music Technology** - Audio players and creative tools
 - 🤖 **Automation** - Bots and productivity tools
 - ⚡ **Performance** - Optimizing for speed and user experience
 
