@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Cris
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cris&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header" />
 
 ### Multi-Domain Software Engineer
 
-**Real-time 3D & Metaverse · Media Streaming · AI Tooling · Full-Stack Web · Game Servers**
+<img src="https://readme-typing-svg.demolab.com/?lines=Real-time+3D+%26+Metaverse;GPU+Media+Pipelines;AI+Tooling+%26+MCP+Servers;Game+Server+Infrastructure;Full-Stack+Web+%26+SaaS;Desktop+%26+TV+Apps&font=Fira+Code&center=true&width=440&height=45&color=F85D7F&vCenter=true&pause=1000&size=20" alt="typing" />
 
 [![GitHub followers](https://img.shields.io/github/followers/CrisHatt?style=social)](https://github.com/CrisHatt)
 [![Second Life](https://img.shields.io/badge/Second_Life-Cris.Hatt-00CED1?style=flat&logo=secondlife)](https://my.secondlife.com/cris.hatt)
@@ -13,104 +13,68 @@
 
 ---
 
-## 🧭 About Me
+## 🧭 About
 
-I build software across the full spectrum — from **C++ 3D viewers** and **GPU-accelerated video pipelines** to **SaaS platforms** and **AI-powered developer tooling**. I care about architecture first: understanding the problem deeply before writing a single line of code.
+I build software across the full spectrum — from **C++ 3D world viewers** and **GPU-accelerated video pipelines** to **SaaS platforms** and **AI-powered tooling**. Architecture first: understand the problem deeply before writing a single line of code.
 
-> Most of my work lives in private repositories — happy to walk through code and architecture on request.
+> 🔒 **The code is private — the craft is not.** 25+ repositories behind closed doors. Happy to walk through architecture and code on request.
 
 ---
 
-## 🚀 Selected Work
+## 🗺️ Domains I Work In
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 Pretty Liars
-**SaaS platform for Second Life**
+### 🕶️ Real-time 3D & Metaverse
+Custom world viewers, in-world scripting, embedded browsers, virtual economies.
 
-Premium interactive products marketplace with real-time LSL integration, customer hub, and analytics.
-
-`Next.js 15` `TypeScript` `Prisma` `PostgreSQL` `Vercel`
-
-🔗 [pretty-liars.com](https://www.pretty-liars.com)
+`C++` `OpenGL` `Boost` `CEF` `LSL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ UmiStorm Viewer
-**Second Life / OpenSim viewer (C++)**
+### 🎬 Media & Streaming
+GPU-accelerated HLS pipelines, hardware encoding, synchronized playback systems.
 
-Custom fork of a full 3D world viewer: rendering pipeline, asset cataloging, modern toolchain migration.
-
-`C++` `Boost` `OpenGL` `CEF` `VS2022`
+`Python` `FFmpeg` `NVENC` `HLS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 HLS Media Pipeline
-**GPU-accelerated video streaming**
+### 🤖 AI Tooling & Integrations
+MCP servers bridging LLMs with 3D creation suites, AI-driven automation and bots.
 
-HLS converter running at **9.6× realtime** on RTX 4090 via NVENC, multi-audio support, plus a synced watch-party player embedded in-world through MOAP/CEF.
-
-`Python` `FFmpeg` `NVENC` `HLS` `JavaScript`
+`Python` `MCP` `Claude` `ComfyUI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 MCP Servers for 3D Tooling
-**AI ↔ DCC tool integration**
+### 🎮 Game Infrastructure
+Dedicated multiplayer servers, custom launchers, modded ecosystems, server tooling.
 
-Model Context Protocol servers connecting Claude to **Blender** and **Substance Painter** — driving 3D workflows through natural language.
-
-`Python` `MCP` `Blender` `Substance Painter`
+`Java` `Python` `Lua` `PowerShell`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Game Server Engineering
-**Dedicated multiplayer infrastructure**
+### 🌐 Full-Stack Web & SaaS
+Production platforms with real-time integrations, dashboards and analytics.
 
-Optimized Minecraft NeoForge server, 7 Days to Die launcher & server tooling, Tibia 7.4 (TFS 1.5+) with custom OTClient.
-
-`Java` `Python` `PowerShell` `Lua`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 Invoice Manager for Freelancers
-**Desktop app, Clean Architecture**
+### 🖥️ Desktop & TV Apps
+Clean-architecture desktop tools, media centers, native TV applications.
 
-Full financial management suite: PDF generation, email delivery, layered domain-driven design.
-
-`Python` `PySide6` `Clean Architecture`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🦾 PersonalBots / UmiBots
-**AI-powered bot management**
-
-Bot dashboard and automation system for Second Life with AI-driven interactions.
-
-`C#` `.NET` `AI Integrations`
-
-</td>
-<td width="50%" valign="top">
-
-### 📺 Android TV Apps
-**Media apps for the living room**
-
-Native TV applications and media centers for Android-based devices.
-
-`Kotlin` `Android TV`
+`Python/Qt` `C#/.NET` `Kotlin`
 
 </td>
 </tr>
@@ -123,39 +87,26 @@ Native TV applications and media centers for Android-based devices.
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LSL](https://img.shields.io/badge/LSL-00CED1?style=for-the-badge&logo=secondlife&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=py,ts,cpp,cs,java,kotlin,js,lua,powershell" alt="languages" />
 
 ### Web & Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 3D, Media & Desktop
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,prisma,postgres,redis,vercel" alt="web and backend" />
+
+### Desktop, 3D & Tools
+
+<img src="https://skillicons.dev/icons?i=qt,dotnet,blender,docker,git,visualstudio" alt="desktop and tools" />
+
+### Specialties
+
+![LSL](https://img.shields.io/badge/LSL-00CED1?style=for-the-badge&logo=secondlife&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Boost](https://img.shields.io/badge/Boost-F7901E?style=for-the-badge&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### AI & Tooling
-![Claude](https://img.shields.io/badge/Claude_/_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![NVENC](https://img.shields.io/badge/NVENC-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Claude MCP](https://img.shields.io/badge/Claude_/_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -164,10 +115,9 @@ Native TV applications and media centers for Android-based devices.
 ## 🎯 What Drives Me
 
 - 🏗️ **Architecture first** — Clean Architecture, layered design, understanding before coding
-- 🌐 **Real-time 3D & metaverse** — viewers, scripting, in-world streaming, virtual economies
 - ⚡ **Performance engineering** — GPU pipelines, server optimization, profiling
-- 🤖 **AI as a tool** — MCP integrations that put humans in the driver's seat
-- 🎮 **Game infrastructure** — dedicated servers, custom launchers, modded ecosystems
+- 🤖 **AI as a tool** — the human leads, the AI executes
+- 🧪 **Quality over speed** — solid foundations beat quick hacks, every time
 
 ---
 
@@ -177,7 +127,6 @@ Native TV applications and media centers for Android-based devices.
 
 [![GitHub](https://img.shields.io/badge/GitHub-CrisHatt-181717?style=for-the-badge&logo=github)](https://github.com/CrisHatt)
 [![Second Life](https://img.shields.io/badge/Second_Life-Cris.Hatt-00CED1?style=for-the-badge&logo=secondlife)](https://my.secondlife.com/cris.hatt)
-[![Website](https://img.shields.io/badge/Pretty_Liars-Live-F85D7F?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pretty-liars.com)
 
 </div>
 
@@ -188,5 +137,7 @@ Native TV applications and media centers for Android-based devices.
 ### 💡 "Understand the problem. Design the architecture. Then write the code."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrisHatt&color=F85D7F&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
