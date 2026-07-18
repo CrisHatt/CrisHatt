@@ -88,23 +88,30 @@ Clean-architecture desktop tools, media centers, native TV applications.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=py,ts,cpp,cs,java,kotlin,js,lua,powershell" alt="languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,cs,java,kotlin,lua,powershell,bash,html,css&perline=13" alt="languages" />
 
 ### Web & Backend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,prisma,postgres,redis,vercel" alt="web and backend" />
 
-### Desktop, 3D & Tools
+### Desktop, 3D & Build
 
-<img src="https://skillicons.dev/icons?i=qt,dotnet,blender,docker,git,visualstudio" alt="desktop and tools" />
+<img src="https://skillicons.dev/icons?i=qt,dotnet,blender,cmake,visualstudio,androidstudio" alt="desktop, 3d and build" />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" alt="devops and tools" />
 
 ### Specialties
 
 ![LSL](https://img.shields.io/badge/LSL-00CED1?style=for-the-badge&logo=secondlife&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-4B6C9E?style=for-the-badge&logo=opengl&logoColor=white)
 ![Boost](https://img.shields.io/badge/Boost-F7901E?style=for-the-badge&logoColor=white)
+![CEF](https://img.shields.io/badge/CEF-2C2E3B?style=for-the-badge&logo=chromium&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![NVENC](https://img.shields.io/badge/NVENC-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![HLS](https://img.shields.io/badge/HLS_Streaming-FF6C37?style=for-the-badge&logo=youtube&logoColor=white)
 ![Claude MCP](https://img.shields.io/badge/Claude_/_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white)
 
